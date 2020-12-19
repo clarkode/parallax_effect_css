@@ -1,2 +1,2 @@
-# parallax_effect_css
-Efecto Parallax con CSS
+# Parallax Effect CSS
+Efecto Parallax con CSS al hacer scroll
